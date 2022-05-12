@@ -6,7 +6,7 @@ int main()
     int a = 8;
     int b = 45;
     int sum = a+ b;
-    cout<<sum;
+    cout<<"sum="<<sum;
 
 
 }
